@@ -23,7 +23,7 @@ config/icon="res://icon.png"
 
 [autoload]
 
-TouchHelper="*res://TouchHelper.gd"
+TouchHelper="*res://TouchHelper.vs"
 
 [gdnative]
 
